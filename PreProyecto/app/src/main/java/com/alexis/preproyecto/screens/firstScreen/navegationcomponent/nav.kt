@@ -1,7 +1,6 @@
-package com.alexis.preproyecto.screens.navegationcomponent
+package com.alexis.preproyecto.screens.firstScreen.navegationcomponent
 
 import androidx.compose.foundation.background
-import androidx.compose.material3.AlertDialogDefaults
 import androidx.compose.material3.Badge
 import androidx.compose.material3.BadgedBox
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -15,9 +14,8 @@ import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
-import com.alexis.preproyecto.screens.bottomNavItem
+import com.alexis.preproyecto.screens.firstScreen.bottomNavItem
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

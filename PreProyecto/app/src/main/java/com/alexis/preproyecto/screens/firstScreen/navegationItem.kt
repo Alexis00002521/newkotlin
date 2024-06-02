@@ -1,4 +1,4 @@
-package com.alexis.preproyecto.screens
+package com.alexis.preproyecto.screens.firstScreen
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AccountCircle

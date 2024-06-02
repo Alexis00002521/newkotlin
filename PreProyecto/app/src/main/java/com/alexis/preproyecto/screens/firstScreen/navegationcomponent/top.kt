@@ -1,4 +1,4 @@
-package com.alexis.preproyecto.screens.navegationcomponent
+package com.alexis.preproyecto.screens.firstScreen.navegationcomponent
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
@@ -7,10 +7,8 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.AlertDialogDefaults
-import androidx.compose.material3.AlertDialogDefaults.shape
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
 import androidx.compose.material3.Text
@@ -26,7 +24,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.unit.dp
 import com.alexis.preproyecto.R
-import com.alexis.preproyecto.screens.bottomNavItem2
+import com.alexis.preproyecto.data.bottomNavItem2
 
 
 @Composable
